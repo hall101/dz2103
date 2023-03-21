@@ -4,9 +4,3 @@ def itc_revnbr(ch):
     c = num // 100
     print(a + b + c)
     
-    
-ch = int(input())
-itc_revnbr(ch)
-    
-    
-
