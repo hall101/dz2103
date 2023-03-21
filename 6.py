@@ -3,7 +3,3 @@ def itc_iseven(num):
         return 'True'
     else:
         return 'False'
-
-
-num = int(input())
-print(itc_iseven(num))
