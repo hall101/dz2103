@@ -1,4 +1,4 @@
-def max(num, num2):
+def itc_max(num, num2):
     if num > num2:
         return num
     else:
