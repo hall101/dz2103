@@ -1,9 +1,9 @@
-def itc_iseven(ch):
-    if ch % 2 == 0:
+def itc_iseven(num):
+    if num % 2 == 0:
         return 'True'
     else:
         return 'False'
 
 
-ch = int(input())
-print(itc_iseven(ch))
+num = int(input())
+print(itc_iseven(num))
