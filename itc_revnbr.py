@@ -1,6 +1,6 @@
-def itc_revnbr(ch):
-    a = ch % 10
-    b = (ch % 100) // 10
+def itc_revnbr(num):
+    a = num % 10
+    b = (num % 100) // 10
     c = num // 100
     print(a + b + c)
     
