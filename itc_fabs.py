@@ -1,2 +1,2 @@
-def itc_fabs(a):
-    return max(-a, a)
+def itc_fabs(num):
+    return max(-num, num)
