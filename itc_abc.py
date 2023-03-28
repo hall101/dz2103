@@ -1,2 +1,2 @@
-def itc_abc(a):
-    return max(-a, a)
+def itc_abs(num):
+    return max(-num, num)
